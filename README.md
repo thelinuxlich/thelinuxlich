@@ -1,6 +1,6 @@
 ## Information wants to be free.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thelinuxlich&show_icons=true&locale=en&layout=compact" alt="thelinuxlich" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thelinuxlich&show_icons=true&locale=en&layout=compact" alt="thelinuxlich" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=thelinuxlich&count_private=true&show_icons=true&locale=en" alt="thelinuxlich" />
 
