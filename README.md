@@ -6,4 +6,4 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=thelinuxlich&" alt="thelinuxlich" /></p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=thelinuxlich&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=thelinuxlich&theme=dracula&row=1)](https://github.com/ryo-ma/github-profile-trophy)
