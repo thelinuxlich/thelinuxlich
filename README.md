@@ -2,6 +2,4 @@
 
 <p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=thelinuxlich&count_private=true&show_icons=true&locale=en" alt="thelinuxlich" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=thelinuxlich&" alt="thelinuxlich" /></p>
